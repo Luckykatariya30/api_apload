@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     "login",
     "contect",
     "registre",
+    'corsheaders',
 ]
 
 MIDDLEWARE = [
