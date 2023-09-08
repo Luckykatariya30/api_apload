@@ -42,6 +42,8 @@ INSTALLED_APPS = [
     "contect",
     "registre",
     'corsheaders',
+    "curd_api",
+    'registration',
 ]
 
 MIDDLEWARE = [

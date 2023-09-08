@@ -1,5 +1,5 @@
 from django.contrib import admin
-from registre.models import Registre
+from .models import Registre
 # Register your models here.
 
 class Sign_upAdmin(admin.ModelAdmin):
